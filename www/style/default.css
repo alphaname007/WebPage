@@ -1,12 +1,14 @@
 html{
     width: 100%;
-    height: 200%;
     overflow-x: hidden;
     font-family: Verdana, sans-serif;
 }
 
-#background_image{
+#parallax_container{
     width: 100%;
-    height: 30%;
+    height: 60%;
     background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
