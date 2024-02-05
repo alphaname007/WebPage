@@ -11,17 +11,18 @@ html{
     left: 0vw;
     width: 100vw;
     height: 80vh;
-    background-position-x: -12vh;
+    background-position-x: -15vh;
     background-position-y: -7vw;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: grayscale(100%);
 }
 
 #introduction_container{
+    position: absolute;
     top: 25vh;
     right: 10vw;
+    width: max-content;
     text-align: right;
     color: white;
     background-color: rgba(20, 20, 20, 0.2);
