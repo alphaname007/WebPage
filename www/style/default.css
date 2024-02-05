@@ -33,13 +33,13 @@ html{
     width: 7vw;
     height: 5vh;
     color: white;
-    background-color: rgb(24, 116, 208);
+    background-color: rgba(24, 116, 208, 0.4);
     border: 0.5vh solid white;
     font-size: 2vh;
     font-family: system-ui;
     font-weight: bolder;
 }
 #ContactMe_Button:hover{
-    background-color: rgb(29, 138, 247);
+    background-color: rgb(29, 138, 247, 0.4);
     cursor: alias;
 }
