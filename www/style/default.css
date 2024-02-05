@@ -6,7 +6,7 @@ html{
 
 h, h1, h2, h3{
     font-family: Verdana;
-    font-size: 2.6vh;
+    font-size: 5vh;
 }
 
 p{
@@ -38,6 +38,7 @@ p{
 }
 
 #ContactMe_Button{
+    float: right;
     width: 7vw;
     height: 5vh;
     color: white;
