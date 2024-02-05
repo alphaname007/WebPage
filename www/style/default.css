@@ -32,7 +32,7 @@ p{
     top: 10vh;
     right: 5vw;
     width: 35vw;
-    padding-inline: 1vh;
+    padding: 1.5vh;
     color: white;
     background-color: rgba(20, 20, 20, 0.4);
 }
