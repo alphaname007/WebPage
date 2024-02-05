@@ -2,7 +2,7 @@ html{
     width: 100vw;
     height: 200vh;
     overflow-x: hidden;
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, Georgia;
 }
 
 #parallax_container{
