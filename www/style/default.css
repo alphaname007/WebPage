@@ -7,8 +7,10 @@ html{
 
 #parallax_container{
     margin-top: 0vh;
+    margin-left: 0vw;
     width: 100vw;
-    height: 60vh;
+    height: 80vh;
+    position: absolute;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,6 +19,7 @@ html{
 
 #introduction_container{
     color: white;
-    margin-left: 10vw;
-    margin-top: 40vh;
+    margin-right: 10vw;
+    margin-top: 30vh;
+    text-align: right;
 }
