@@ -22,7 +22,7 @@ html{
     position: absolute;
     top: 10vh;
     right: 5vw;
-    padding-inline: 0.5vh;
+    padding-inline: 1vh;
     text-align: right;
     color: white;
     background-color: rgba(20, 20, 20, 0.4);
