@@ -2,7 +2,16 @@ html{
     width: 100vw;
     height: 200vh;
     overflow-x: hidden;
-    font-family: Verdana, Georgia;
+}
+
+h{
+    font-family: Verdana;
+    font-size: 2.6vh;
+}
+
+p{
+    font-family: Georgia;
+    font-size: 2.6vh;
 }
 
 #parallax_container{
@@ -22,25 +31,23 @@ html{
     position: absolute;
     top: 10vh;
     right: 5vw;
-    width: fit-content;
+    width: 35vw;
     padding-inline: 1vh;
-    text-align: right;
     color: white;
     background-color: rgba(20, 20, 20, 0.4);
-    font-size: 2.6vh;
 }
 
 #ContactMe_Button{
     width: 7vw;
     height: 5vh;
     color: white;
-    background-color: rgba(24, 116, 208, 0.4);
+    background-color: rgba(25, 125, 200, 0.7);
     border: 0.5vh solid white;
     font-size: 2vh;
-    font-family: system-ui;
+    font-family: monospace;
     font-weight: bolder;
 }
 #ContactMe_Button:hover{
-    background-color: rgb(29, 138, 247, 0.4);
+    background-color: rgb(29, 138, 247, 0.7);
     cursor: alias;
 }
