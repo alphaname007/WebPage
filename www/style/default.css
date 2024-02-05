@@ -33,7 +33,7 @@ p{
     position: absolute;
     top: 10vh;
     right: 5vw;
-    width: 40vw;
+    width: 45vw;
     padding: 1.5vh;
     color: white;
     background-color: rgba(20, 20, 20, 0.6);
@@ -45,16 +45,16 @@ p{
 
 #ContactMe_Button{
     float: right;
-    width: 7vw;
-    height: 5vh;
+    width: 8vw;
+    height: 6vh;
     color: white;
-    background-color: rgba(25, 125, 200, 0.7);
+    background-color: rgb(50, 90, 200);
     border: 0.5vh solid white;
     font-size: 2vh;
     font-family: monospace;
     font-weight: bolder;
 }
 #ContactMe_Button:hover{
-    background-color: rgb(29, 138, 247, 0.7);
+    background-color: rgb(80, 110, 220);
     cursor: alias;
 }
