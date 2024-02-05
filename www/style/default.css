@@ -6,6 +6,7 @@ html{
 }
 
 #parallax_container{
+    margin-top: 0vh;
     width: 100vw;
     height: 60vh;
     background-attachment: fixed;
