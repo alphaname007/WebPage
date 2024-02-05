@@ -20,11 +20,11 @@ html{
 
 #introduction_container{
     position: absolute;
-    top: 25vh;
+    top: 20vh;
     right: 10vw;
     width: max-content;
     text-align: right;
     color: white;
-    background-color: rgba(20, 20, 20, 0.2);
-    font-size: 2vh;
+    background-color: rgba(20, 20, 20, 0.4);
+    font-size: 3vh;
 }
