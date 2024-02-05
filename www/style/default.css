@@ -6,20 +6,22 @@ html{
 }
 
 #parallax_container{
+    position: absolute;
     margin-top: 0vh;
     margin-left: 0vw;
     width: 100vw;
     height: 80vh;
-    position: absolute;
+    background-position-x: -5vh;
+    background-position-y: -10vw;
     background-attachment: fixed;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #introduction_container{
-    color: white;
     margin-right: 10vw;
     margin-top: 30vh;
     text-align: right;
+    size: 5vh;
+    color: white;
 }
