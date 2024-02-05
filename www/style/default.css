@@ -11,11 +11,12 @@ html{
     left: 0vw;
     width: 100vw;
     height: 80vh;
-    background-position-x: -10vh;
+    background-position-x: -12vh;
     background-position-y: -7vw;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    filter: grayscale(100%);
 }
 
 #introduction_container{
@@ -24,5 +25,5 @@ html{
     text-align: right;
     color: white;
     background-color: rgba(20, 20, 20, 0.2);
-    font-size: 5vh;
+    font-size: 2vh;
 }
