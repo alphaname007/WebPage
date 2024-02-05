@@ -22,7 +22,8 @@ html{
     position: absolute;
     top: 20vh;
     right: 10vw;
-    width: max-content;
+    width: calc(max-content + 1vw);
+    height: calc(max-content + 1vh);
     text-align: right;
     color: white;
     background-color: rgba(20, 20, 20, 0.4);
