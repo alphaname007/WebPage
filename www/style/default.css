@@ -7,11 +7,13 @@ html{
 h, h1, h2, h3{
     font-family: Verdana;
     font-size: 5vh;
+    margin: 0vh;
 }
 
 p{
     font-family: Georgia;
     font-size: 2.6vh;
+    margin: 0vh;
 }
 
 #parallax_container{
@@ -35,6 +37,10 @@ p{
     padding: 1.5vh;
     color: white;
     background-color: rgba(20, 20, 20, 0.4);
+}
+
+#introduction_container h1 {
+    margin-bottom: 1vh;
 }
 
 #ContactMe_Button{
