@@ -39,3 +39,6 @@ html{
     font-family: system-ui;
     font-weight: bolder;
 }
+#ContactMe_Button:hover{
+    cursor: alias;
+}
