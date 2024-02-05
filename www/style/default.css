@@ -40,5 +40,6 @@ html{
     font-weight: bolder;
 }
 #ContactMe_Button:hover{
+    background-color: rgb(29, 138, 247);
     cursor: alias;
 }
