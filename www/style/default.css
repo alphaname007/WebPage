@@ -32,6 +32,7 @@ a{
     left: 0vw;
     width: 100vw;
     height: 80vh;
+    background-image: url('../images/parallax_image.jpg');
     background-position-x: -0vh;
     background-position-y: -7vw;
     background-attachment: fixed;
@@ -68,5 +69,5 @@ a{
 }
 #ContactMe_Button:hover{
     background-color: rgb(80, 110, 220);
-    cursor: url('./images/send.svg'), auto;;
+    cursor: url('../images/send.svg'), auto;;
 }
