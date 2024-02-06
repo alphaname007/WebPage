@@ -45,7 +45,7 @@ a{
     top: 10vh;
     right: 5vw;
     width: 45vw;
-    padding: 1.5vh;
+    padding: 2vh;
     color: white;
     background-color: rgba(20, 20, 20, 0.6);
     text-align: justify;
@@ -55,7 +55,7 @@ a{
 }
 #introduction_container #ContactMe_Button{
     float: right;
-    margin: 2vh;
+    margin-top: 2vh;
 }
 
 #ContactMe_Button{
