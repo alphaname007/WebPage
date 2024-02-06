@@ -16,6 +16,10 @@ p{
     margin: 0vh;
 }
 
+a{
+    text-decoration: dotted;
+}
+
 #parallax_container{
     position: absolute;
     top: 0vh;
@@ -41,11 +45,12 @@ p{
 #introduction_container h1 {
     margin-bottom: 1.5vh;
 }
+#introduction_container ContactMe_Button{
+    float: right;
+    margin: 2vh;
+}
 
 #ContactMe_Button{
-    float: right;
-    margin-bottom: 2vh;
-    margin-right: 6vw;
     width: 8vw;
     height: 6vh;
     color: white;
