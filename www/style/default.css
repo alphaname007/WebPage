@@ -69,5 +69,5 @@ a{
 }
 #ContactMe_Button:hover{
     background-color: rgb(80, 110, 220);
-    cursor: url('../images/send.svg'), auto;
+    cursor: pointer;
 }
