@@ -58,8 +58,8 @@ a{
 }
 
 #ContactMe_Button{
-    width: 8vw;
-    height: 6vh;
+    width: max-content;
+    height: max-content;
     color: white;
     background-color: rgb(50, 90, 200);
     border: 0.5vh solid white;
