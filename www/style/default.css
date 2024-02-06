@@ -20,8 +20,10 @@ strong{
     font-family: Verdana;
 }
 
-a{
-    text-decoration: dotted;
+a{  
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
 
 #parallax_container{
