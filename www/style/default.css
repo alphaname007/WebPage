@@ -16,6 +16,10 @@ p{
     margin: 0vh;
 }
 
+strong{
+    font-family: Verdana;
+}
+
 a{
     text-decoration: dotted;
 }
