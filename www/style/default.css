@@ -53,22 +53,22 @@ a{
 #introduction_container h1 {
     margin-bottom: 1.5vh;
 }
-#introduction_container #ContactMe_Button{
+#introduction_container #ContactMe_button{
     float: right;
     margin-top: 2vh;
 }
 
-#ContactMe_Button{
+#ContactMe_button{
     width: max-content;
     height: max-content;
     color: white;
     background-color: rgb(50, 90, 200);
     border: 0.5vh solid white;
-    font-size: 2.5vh;
+    font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
 }
-#ContactMe_Button:hover{
+#ContactMe_button:hover{
     background-color: rgb(80, 110, 220);
     cursor: pointer;
 }
