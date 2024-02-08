@@ -91,13 +91,13 @@ a{
 }
 
 .SozialMedia_icons{
-    filter: grayscale(1) invert(1);
+    filter: invert(1);
     border-radius: 1vh;
     transition: background-color 0.5s ease;
-    background-color: var(--accent-color);
+    background-color: invert(var(--accent-color));
 }
 .SozialMedia_icons:hover{
     cursor: pointer;
-    background-color: calc(100% - var(--accent-color-highlited));
+    background-color: invert(var(--accent-color-highlited));
     filter: invert(1);
 }
