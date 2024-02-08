@@ -86,3 +86,7 @@ a{
 #SozialMedia_container .SozialMedia_buttons{
     height: 8vh;
 }
+
+.SozialMedia_buttons{
+    filter: grayscale(1) invert(1);
+}
