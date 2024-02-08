@@ -97,7 +97,7 @@ a{
 }
 .SozialMedia_links:hover{
     cursor: pointer;
-    background-color: invert(var(--accent-color-highlited));
+    background-color: var(--accent-color-highlited);
 }
 
 .SozialMedia_icons{
