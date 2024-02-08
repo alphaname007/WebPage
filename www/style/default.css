@@ -2,6 +2,7 @@ html{
     width: 100vw;
     height: 200vh;
     overflow-x: hidden;
+    color: var(--primary-color)
 }
 
 h, h1, h2, h3{
@@ -47,7 +48,7 @@ a{
     width: 45vw;
     padding: 2vh;
     color: var(--primary-color);
-    background-color: var(--background-color);
+    background-color: var(--secondary-color-transparent);
     text-align: justify;
 }
 #introduction_container h1 {
@@ -62,9 +63,9 @@ a{
     width: max-content;
     height: max-content;
     color: var(--primary-color);
-    background-color: var(--background-color);
+    background-color: var(--accent-color);
     transition: background-color 0.5s ease;
-    border: 0.5vh solid var(--accent-color);
+    border: 0.5vh solid var(--primary-color);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
