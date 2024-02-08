@@ -91,7 +91,7 @@ a{
 }
 
 .SozialMedia_icons{
-    filter: invert(1);
+    filter: invert(1) grayscale(1);
     border-radius: 1vh;
     transition: background-color 0.5s ease;
     background-color: invert(var(--accent-color));
@@ -99,5 +99,4 @@ a{
 .SozialMedia_icons:hover{
     cursor: pointer;
     background-color: invert(var(--accent-color-highlited));
-    filter: invert(1);
 }
