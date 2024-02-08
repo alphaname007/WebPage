@@ -83,10 +83,11 @@ a{
     justify-content: space-between;
     background-color: rgba(20, 20, 20, 0.6);
 }
-#SozialMedia_container .SozialMedia_buttons{
+#SozialMedia_container .SozialMedia_links .SozialMedia_icons{
     height: 8vh;
+    text-decoration: none;
 }
 
-.SozialMedia_buttons{
+.SozialMedia_icons{
     filter: grayscale(1) invert(1);
 }
