@@ -91,3 +91,8 @@ a{
 .SozialMedia_icons{
     filter: grayscale(1) invert(1);
 }
+.SozialMedia_icons:hover{
+    cursor: pointer;
+    background-color: yellow;
+    filter: invert(1);
+}
