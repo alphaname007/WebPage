@@ -81,7 +81,7 @@ a{
     width: 45vw;
     height: 8vh;
     justify-content: space-between;
-    background-color: rgba(20, 20, 20, 0.6);
+    padding: 2vh;
 }
 #SozialMedia_container .SozialMedia_links .SozialMedia_icons{
     height: 8vh;
