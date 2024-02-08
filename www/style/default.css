@@ -62,14 +62,15 @@ a{
     width: max-content;
     height: max-content;
     color: white;
-    background-color: rgb(50, 90, 200);
+    background-color: blue;
+    transition: background-color 0.5s ease;
     border: 0.5vh solid white;
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
 }
 #ContactMe_button:hover{
-    background-color: rgb(80, 110, 220);
+    background-color: rgb(40, 80, 255);
     cursor: pointer;
 }
 
