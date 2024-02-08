@@ -72,3 +72,13 @@ a{
     background-color: rgb(80, 110, 220);
     cursor: pointer;
 }
+
+#SozialMedia_container{
+    position: absolute;
+    top: 20vh;
+    right: 5vw;
+    width: 45vw;
+    height: 5vh;
+    justify-content: space-between;
+    background-color: rgba(20, 20, 20, 0.6);
+}
