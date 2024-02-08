@@ -90,13 +90,16 @@ a{
     text-decoration: none;
 }
 
-.SozialMedia_icons{
-    filter: invert();
+.SozialMedia_links{
     border-radius: 1vh;
     transition: background-color 0.5s ease;
-    background-color: invert(var(--accent-color));
+    background-color: var(--accent-color);
 }
-.SozialMedia_icons:hover{
+.SozialMedia_links:hover{
     cursor: pointer;
     background-color: invert(var(--accent-color-highlited));
+}
+
+.SozialMedia_icons{
+    filter: invert(1);
 }
