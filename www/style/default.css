@@ -51,7 +51,7 @@ a{
     background-color: var(--secondary-color-transparent);
     text-align: justify;
 }
-#introduction_container h1 {
+#introduction_container #introduction_headline {
     margin-bottom: 1.5vh;
 }
 #introduction_container #ContactMe_button{
@@ -103,3 +103,4 @@ a{
 .SozialMedia_icons{
     filter: invert(1);
 }
+
