@@ -79,7 +79,11 @@ a{
     top: 70vh;
     right: 5vw;
     width: 45vw;
-    height: 5vh;
+    height: 8vh;
     justify-content: space-between;
     background-color: rgba(20, 20, 20, 0.6);
+}
+.SozialMedia_buttons{
+    width: 3vh;
+    
 }
