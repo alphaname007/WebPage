@@ -1,0 +1,7 @@
+:root {
+  --primary-color: white;
+  --accent-color: blue;
+  --accent-color-highlited: rgb(59, 111, 255);
+  --secondary-color: rgb(38, 40, 96);
+  --secondary-color-transparent: rgba(20, 20, 20, 0.6);
+}

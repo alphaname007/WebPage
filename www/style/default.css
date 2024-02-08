@@ -21,7 +21,7 @@ strong{
 }
 
 a{  
-    color: white;
+    color: var(--primary-color);
     text-decoration: underline;
     text-decoration-style: dotted;
 }
@@ -46,8 +46,8 @@ a{
     right: 5vw;
     width: 45vw;
     padding: 2vh;
-    color: white;
-    background-color: rgba(20, 20, 20, 0.6);
+    color: var(--primary-color);
+    background-color: var(--background-color);
     text-align: justify;
 }
 #introduction_container h1 {
@@ -61,16 +61,16 @@ a{
 #ContactMe_button{
     width: max-content;
     height: max-content;
-    color: white;
-    background-color: blue;
+    color: var(--primary-color);
+    background-color: var(--background-color);
     transition: background-color 0.5s ease;
-    border: 0.5vh solid white;
+    border: 0.5vh solid var(--accent-color);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
 }
 #ContactMe_button:hover{
-    background-color: rgb(40, 80, 255);
+    background-color: var(--accent-color-highlited);
     cursor: pointer;
 }
 
@@ -93,9 +93,10 @@ a{
     filter: grayscale(1) invert(1);
     border-radius: 1vh;
     transition: background-color 0.5s ease;
+    background-color: var(--accent-color);
 }
 .SozialMedia_icons:hover{
     cursor: pointer;
-    background-color: yellow;
+    background-color: calc(100% - var(--accent-color-highlited));
     filter: invert(1);
 }
