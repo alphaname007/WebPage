@@ -90,6 +90,7 @@ a{
 
 .SozialMedia_icons{
     filter: grayscale(1) invert(1);
+    border-radius: 1vh;
     transition: background-color 0.5s ease;
 }
 .SozialMedia_icons:hover{
