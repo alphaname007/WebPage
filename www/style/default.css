@@ -91,7 +91,7 @@ a{
 }
 
 .SozialMedia_icons{
-    filter: invert(1) grayscale(1);
+    filter: invert();
     border-radius: 1vh;
     transition: background-color 0.5s ease;
     background-color: invert(var(--accent-color));
