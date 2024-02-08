@@ -75,6 +75,7 @@ a{
 
 #SozialMedia_container{
     position: absolute;
+    display: flex;
     top: 70vh;
     right: 5vw;
     width: 45vw;
