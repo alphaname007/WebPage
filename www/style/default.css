@@ -106,7 +106,6 @@ a{
 
 #aside_left{
     position: absolute;
-    display: flex;
     top: 90vh;
     left: 5vw;
     width: 15vw;
@@ -140,8 +139,8 @@ a{
     font-family: Verdana;
 }
 
-.language_progress{
-    border-radius: 1vh;
+.language_span{
+    border-radius: 0.5vh;
     color: var(--primary-color);
     background-color: var(--accent-color);
     font-weight: bold;
