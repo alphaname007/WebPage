@@ -107,14 +107,11 @@ a{
 #skills_container{
     margin-top: 90vh;
     margin-left: 5vw;
+    color: var(--accent-color);
     box-shadow: 1vh 1vw var(--secondary-color-transparent);
+    font-family: Verdana;
 }
 
 #skill_progress{
     border-radius: 0vh;
-}
-
-#skill_label{
-    color: var(--accent-color);
-    font-family: Verdana;
 }
