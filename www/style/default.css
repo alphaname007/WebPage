@@ -108,7 +108,7 @@ a{
     position: absolute;
     top: 90vh;
     left: 5vw;
-    width: max-content;
+    width: 15vw;
     padding: 2vh;
     color: var(--secondary-color);
     box-shadow: -1vh -1vh 1.2vh var(--shadow-top), 1vh 1vh 1.2vh var(--shadow-bottom);
@@ -131,5 +131,5 @@ a{
     background-color: var(--shadow-top);
 }
 .skill_progress::-webkit-progress-value{
-    color: var(--accent-color);
+    background-color: var(--accent-color);
 }
