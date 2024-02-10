@@ -107,8 +107,8 @@ a{
 #aside_left{
     position: absolute;
     top: 90vh;
-    left: 5vw;
-    width: 15vw;
+    left: 2vw;
+    width: 20vw;
 }
 
 #aside_left .card{
