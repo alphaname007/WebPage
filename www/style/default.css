@@ -66,7 +66,6 @@ a{
     background-color: var(--accent-color);
     transition: background-color 0.5s ease;
     border: 0.5vh solid var(--primary-color);
-    box-shadow: 0.2vh 0.2vh var(--primary-color), 0.4px 0.4px var(--primary-color), 0.6vh 0.6vh var(--primary-color), 0.8vh 0.8vh var(--primary-color), 1vh 1vh var(--primary-color);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
