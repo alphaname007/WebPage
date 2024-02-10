@@ -101,6 +101,7 @@ a{
 }
 
 .SozialMedia_icons{
+    border-radius: 1vh;
     filter: invert(1);
 }
 
