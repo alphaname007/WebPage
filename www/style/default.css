@@ -104,3 +104,9 @@ a{
     filter: invert(1);
 }
 
+#skills_container{
+    margin-top: 90vh;
+    margin-left: 5vw;
+    border-radius: 0vh;
+    box-shadow: 1vh 1vw var(--secondary-color-transparent);
+}
