@@ -124,5 +124,12 @@ a{
 }
 
 .skill_progress{
+    width: 100%;
     border-radius: 0vh;
+}
+.skill_progress::-webkit-progress-bar{
+    background-color: var(--shadow-top);
+}
+.skill_progress::-webkit-progress-value{
+    color: var(--accent-color);
 }
