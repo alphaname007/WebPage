@@ -105,6 +105,7 @@ a{
 }
 
 #skills_container{
+    position: absolute;
     top: 90vh;
     left: 5vw;
     width: max-content;
