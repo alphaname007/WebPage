@@ -66,6 +66,7 @@ a{
     background-color: var(--accent-color);
     transition: background-color 0.5s ease;
     border: 0.5vh solid var(--primary-color);
+    box-shadow: var(--shadow);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
@@ -88,6 +89,7 @@ a{
 #SozialMedia_container .SozialMedia_links .SozialMedia_icons{
     height: 8vh;
     text-decoration: none;
+    box-shadow: var(--shadow);
 }
 
 .SozialMedia_links{
@@ -111,7 +113,7 @@ a{
     width: 15vw;
     padding: 2vh;
     color: var(--secondary-color);
-    box-shadow: -1vh -1vh 1.2vh var(--shadow-top), 1vh 1vh 1.2vh var(--shadow-bottom);
+    box-shadow: var(--shadow);
 }
 
 #skills_headline{

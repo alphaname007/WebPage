@@ -7,4 +7,6 @@
   --shadow-bottom: grey;
   --secondary-color: rgb(20, 20, 50);
   --secondary-color-transparent: rgba(20, 20, 50, 0.6);
+
+  --shadow: -1vh -1vh 1.2vh var(--shadow-top), 1vh 1vh 1.2vh var(--shadow-bottom);
 }
