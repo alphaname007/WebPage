@@ -3,7 +3,8 @@
   --background-color: white;
   --accent-color: blue;
   --accent-color-highlited: rgb(60, 100, 255);
-  --accent-color-background: rgb(180, 200, 255);
+  --shadow-top: rgba(255,255,255,0.45);
+  --shadow-bottom: ;
   --secondary-color: rgb(20, 20, 50);
   --secondary-color-transparent: rgba(20, 20, 20, 0.6);
 }

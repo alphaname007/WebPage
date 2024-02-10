@@ -66,6 +66,7 @@ a{
     background-color: var(--accent-color);
     transition: background-color 0.5s ease;
     border: 0.5vh solid var(--primary-color);
+    box-shadow: 0.2vh 0.2vh var(--primary-color), 0.4px 0.4px var(--primary-color), 0.6vh 0.6vh var(--primary-color), 0.8vh 0.8vh var(--primary-color), 1vh 1vh var(--primary-color);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
@@ -111,7 +112,7 @@ a{
     width: max-content;
     padding: 2vh;
     color: var(--secondary-color);
-    box-shadow: 1vh 1vw var(--secondary-color-transparent);
+    box-shadow: -1vh -1vh 1.2vh var(--shadow-top), 1vh 1vh 1.2vh var(--shadow-bottom);
 }
 
 #skills_headline{
