@@ -105,10 +105,20 @@ a{
 }
 
 #skills_container{
-    margin-top: 90vh;
-    margin-left: 5vw;
+    top: 90vh;
+    left: 5vw;
+    width: max-content;
+    padding: 2vh;
     color: var(--accent-color);
     box-shadow: 1vh 1vw var(--secondary-color-transparent);
+}
+
+#skill_headline{
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+#skill_label{
     font-family: Verdana;
 }
 
