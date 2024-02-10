@@ -110,19 +110,19 @@ a{
     left: 5vw;
     width: max-content;
     padding: 2vh;
-    color: var(--accent-color);
+    color: var(--secondary-color);
     box-shadow: 1vh 1vw var(--secondary-color-transparent);
 }
 
-#skill_headline{
+#skills_headline{
     font-weight: bold;
     font-family: Verdana;
 }
 
-#skill_label{
+.skill_label{
     font-family: Verdana;
 }
 
-#skill_progress{
+.skill_progress{
     border-radius: 0vh;
 }
