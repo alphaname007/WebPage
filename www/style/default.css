@@ -66,7 +66,6 @@ a{
     background-color: var(--accent-color);
     transition: background-color 0.5s ease;
     border: 0.5vh solid var(--primary-color);
-    box-shadow: var(--shadow);
     font-size: 3vh;
     font-family: monospace;
     font-weight: bolder;
@@ -89,7 +88,6 @@ a{
 #SozialMedia_container .SozialMedia_links .SozialMedia_icons{
     height: 8vh;
     text-decoration: none;
-    box-shadow: var(--shadow);
 }
 
 .SozialMedia_links{
@@ -106,14 +104,22 @@ a{
     filter: invert(1);
 }
 
-#skills_container{
+#aside_left{
     position: absolute;
     top: 90vh;
     left: 5vw;
     width: 15vw;
-    padding: 2vh;
+}
+
+.card{
     color: var(--secondary-color);
     box-shadow: var(--shadow);
+    padding: 2vh;
+}
+
+#languages_headline{
+    font-weight: bold;
+    font-family: Verdana;
 }
 
 #skills_headline{
@@ -121,7 +127,19 @@ a{
     font-family: Verdana;
 }
 
+.language_label{
+    font-family: Verdana;
+}
+
 .skill_label{
+    font-family: Verdana;
+}
+
+.language_progress{
+    border-radius: 1vh;
+    color: var(--primary-color);
+    background-color: var(--accent-color);
+    font-weight: bold;
     font-family: Verdana;
 }
 
