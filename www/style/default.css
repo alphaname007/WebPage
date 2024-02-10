@@ -77,7 +77,6 @@ a{
 
 #SozialMedia_container{
     position: absolute;
-    display: flex;
     top: 65vh;
     right: 5vw;
     width: 45vw;
@@ -107,9 +106,14 @@ a{
 
 #aside_left{
     position: absolute;
+    display: flex;
     top: 90vh;
     left: 5vw;
     width: 15vw;
+}
+
+#aside_left .card{
+    margin: 3vh;
 }
 
 .card{
