@@ -1,7 +1,6 @@
 @media only screen and (min-width: 768px) {
     html{
         width: 100vw;
-        height: 200vh;
     }
 
     #parallax_container{

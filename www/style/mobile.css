@@ -1,7 +1,6 @@
 @media only screen and (max-width: 767px) {
     html{
         width: 100vw;
-        height: 200vh;
     }
 
     #parallax_container{
@@ -25,6 +24,9 @@
         top: 65vh;
         width: 92vw;
         margin: 0vh;
+    }
+    #SozialMedia_container .SozialMedia_links .SozialMedia_icons{
+        height: 8vh;
     }
 
     #aside_left{
