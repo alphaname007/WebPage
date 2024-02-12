@@ -1,0 +1,43 @@
+html{
+    width: 100vw;
+    height: 200vh;
+}
+
+#parallax_container{
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    width: 100vw;
+    height: 80vh;
+    background-position-x: -0vh;
+    background-position-y: -7vw;
+}
+
+#introduction_container{
+    position: absolute;
+    top: 10vh;
+    right: 5vw;
+    width: 45vw;
+}
+
+#SozialMedia_container{
+    position: absolute;
+    top: 65vh;
+    right: 5vw;
+    width: 45vw;
+    height: 8vh;
+}
+
+#aside_left{
+    position: absolute;
+    top: 90vh;
+    left: 2vw;
+    width: 20vw;
+}
+
+#aside_right{
+    position: absolute;
+    top: 90vh;
+    right: 2vw;
+    width: 20vw;
+}

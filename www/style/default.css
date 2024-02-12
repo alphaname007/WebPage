@@ -1,6 +1,4 @@
 html{
-    width: 100vw;
-    height: 200vh;
     overflow-x: hidden;
     color: var(--primary-color)
 }
@@ -28,24 +26,13 @@ a{
 }
 
 #parallax_container{
-    position: absolute;
-    top: 0vh;
-    left: 0vw;
-    width: 100vw;
-    height: 80vh;
     background-image: url('../images/parallax_image.jpg');
-    background-position-x: -0vh;
-    background-position-y: -7vw;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #introduction_container{
-    position: absolute;
-    top: 10vh;
-    right: 5vw;
-    width: 45vw;
     padding: 2vh;
     color: var(--primary-color);
     background-color: var(--secondary-color-transparent);
@@ -76,18 +63,9 @@ a{
 }
 
 #SozialMedia_container{
-    position: absolute;
     display: flex;
-    top: 65vh;
-    right: 5vw;
-    width: 45vw;
-    height: 8vh;
     justify-content: space-between;
     padding: 2vh;
-}
-#SozialMedia_container .SozialMedia_links .SozialMedia_icons{
-    height: 8vh;
-    text-decoration: none;
 }
 
 .SozialMedia_links{
@@ -105,14 +83,15 @@ a{
     filter: invert(1);
 }
 
-#aside_left{
-    position: absolute;
-    top: 90vh;
-    left: 2vw;
-    width: 20vw;
+#SozialMedia_container .SozialMedia_links .SozialMedia_icons{
+    height: 100%;
 }
 
 #aside_left .card{
+    margin: 3vh;
+}
+
+#aside_right .card{
     margin: 3vh;
 }
 
