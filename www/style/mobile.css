@@ -10,7 +10,24 @@
         left: 0vw;
         width: 100vw;
         height: 80vh;
-        background-position-x: -0vh;
-        background-position-y: -7vw;
+        background-position-x: -24vh;
+        background-position-y: -28vw;
+    }
+
+    #introduction_container{
+        position: absolute;
+        margin: 2vh;
+        height: 55vh;
+    }
+
+    #SozialMedia_container{
+        position: absolute;
+        top: 65vh;
+        width: 92vw;
+        margin: 0vh;
+    }
+
+    #aside_left{
+        margin-top: 85vh;
     }
 }
