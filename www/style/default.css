@@ -83,10 +83,6 @@ a{
     filter: invert(1);
 }
 
-#SozialMedia_container .SozialMedia_links .SozialMedia_icons{
-    height: 100%;
-}
-
 #aside_left .card{
     margin: 3vh;
 }

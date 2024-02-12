@@ -1,0 +1,16 @@
+@media only screen and (max-width: 767px) {
+    html{
+        width: 100vw;
+        height: 200vh;
+    }
+
+    #parallax_container{
+        position: absolute;
+        top: 0vh;
+        left: 0vw;
+        width: 100vw;
+        height: 80vh;
+        background-position-x: -0vh;
+        background-position-y: -7vw;
+    }
+}
