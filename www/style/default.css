@@ -133,3 +133,6 @@ a{
 .skill_progress::-webkit-progress-value{
     background-color: var(--accent-color);
 }
+
+#me_img{
+}
