@@ -137,7 +137,6 @@ a{
 #me_img_container{
     width: 100%;
     background-image: url('../images/Me.jpg');
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
