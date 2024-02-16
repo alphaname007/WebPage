@@ -45,6 +45,11 @@
         width: 74vw;
     }
 
+    .section_container{
+        height: 25vh;
+    }
+
+
     .section_image_container{
         float: left;
         margin-right: 1vw;
