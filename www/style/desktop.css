@@ -37,10 +37,17 @@
         right: 2vw;
         width: 20vw;
     }
+
     #content_container{
         position: absolute;
         top: 90vh;
         left: 2vw;
         width: 74vw;
+    }
+
+    #me_image_container{
+        width: 10vw;
+        height: 30vh;
+        background-position-y: -10vh;
     }
 }
