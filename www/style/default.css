@@ -25,6 +25,10 @@ a{
     text-decoration-style: dotted;
 }
 
+hr{
+    border-top: 0.5vh solid var(--secondary-color);
+}
+
 #parallax_container{
     background-attachment: fixed;
     background-repeat: no-repeat;
