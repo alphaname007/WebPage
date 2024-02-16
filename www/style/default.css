@@ -87,15 +87,15 @@ a{
     margin: 3vh;
 }
 
-#contents_container .card{
+#sections_container .card{
     margin: 3vh;
 }
 
-.content_container{
+.section_container{
     display: flex;
 }
 
-.content_container p{
+.section_container p{
     text-align: justify;
 }
 
