@@ -87,8 +87,12 @@ a{
     margin: 3vh;
 }
 
-#content_container .card{
+#contents_container .card{
     margin: 3vh;
+}
+
+.content_container p{
+    text-align: justify;
 }
 
 .card{
