@@ -26,7 +26,6 @@ a{
 }
 
 #parallax_container{
-    background-image: url('../images/parallax_image.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -139,7 +138,6 @@ a{
 }
 
 .section_image_container{
-    background-image: url('../images/Me.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
