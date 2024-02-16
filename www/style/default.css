@@ -139,6 +139,7 @@ a{
 }
 
 #me_image_container{
+    float: left;
     background-image: url('../images/Me.jpg');
     background-repeat: no-repeat;
     background-size: cover;
