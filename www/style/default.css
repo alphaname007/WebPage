@@ -83,10 +83,6 @@ a{
     filter: invert(1);
 }
 
-#aside_left .card{
-    margin: 3vh;
-}
-
 #aside_right .card{
     margin: 3vh;
 }
