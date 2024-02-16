@@ -87,6 +87,10 @@ a{
     margin: 3vh;
 }
 
+#content_container .card{
+    margin: 3vh;
+}
+
 .card{
     color: var(--secondary-color);
     box-shadow: var(--shadow);

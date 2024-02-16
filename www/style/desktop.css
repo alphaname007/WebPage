@@ -38,8 +38,9 @@
         width: 20vw;
     }
     #me_img_container{
-        height: 42vh;
-        background-position-x: -0vh;
-        background-position-y: -7vw;
+        position: absolute;
+        top: 90vh;
+        left: 2vw;
+        width: 74vw;
     }
 }
