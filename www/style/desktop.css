@@ -46,6 +46,8 @@
     }
 
     #me_image_container{
+        float: left;
+        margin-right: 1vw;
         width: 10vw;
         height: 30vh;
         background-position-y: -10vh;
