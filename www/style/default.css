@@ -91,6 +91,10 @@ a{
     margin: 3vh;
 }
 
+.content_container{
+    display: flex;
+}
+
 .content_container p{
     text-align: justify;
 }
@@ -139,7 +143,6 @@ a{
 }
 
 #me_image_container{
-    float: left;
     background-image: url('../images/Me.jpg');
     background-repeat: no-repeat;
     background-size: cover;
