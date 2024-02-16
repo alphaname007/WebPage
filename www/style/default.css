@@ -134,8 +134,7 @@ a{
     background-color: var(--accent-color);
 }
 
-#me_img_container{
-    width: 100%;
+#me_image_container{
     background-image: url('../images/Me.jpg');
     background-repeat: no-repeat;
     background-size: cover;
