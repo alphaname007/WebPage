@@ -46,7 +46,10 @@
     }
 
     .section_image_container{
+        float: left;
         margin-right: 1vw;
-        width: 100vw;
+        margin-bottom: 1vh;
+        width: 25vh;
+        height: 25vh;
     }
 }

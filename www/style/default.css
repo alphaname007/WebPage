@@ -91,10 +91,6 @@ a{
     margin: 3vh;
 }
 
-.section_container{
-    display: flex;
-}
-
 .section_container p{
     text-align: justify;
 }
