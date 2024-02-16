@@ -142,7 +142,7 @@ a{
     background-color: var(--accent-color);
 }
 
-.class_image_container{
+.section_image_container{
     background-image: url('../images/Me.jpg');
     background-repeat: no-repeat;
     background-size: cover;
